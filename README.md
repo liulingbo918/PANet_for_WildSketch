@@ -37,6 +37,7 @@ sh sketch_testing.sh
 
 ## Evaluation
 Edit ```epoch``` in ```evaluation/sketch_evaluation.m``` to elect the evaluation model.
+
 Matlab is requested to compute the Scoot and FSIM metrics.
 ```bash
 cd evaluation/
@@ -48,4 +49,4 @@ The evaluation of FID can be referred to [here](https://github.com/mseitzer/pyto
 ## Acknowledgements
 
 This project is implemented based on the [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix).
-We thank [Dr. JunYan Zhu](https://www.cs.cmu.edu/~junyanz/).
+We thank [Dr. JunYan Zhu](https://www.cs.cmu.edu/~junyanz/)!
